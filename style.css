@@ -127,8 +127,6 @@ body {
 #experience .sub-container {
     background-color: white;
     display: flex;
-
-    height: 80%;
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -266,8 +264,6 @@ body {
 }
 
 #education .sub-container {
-    height: 80%;
-
     display: block;
 }
 
@@ -301,12 +297,10 @@ body {
 }
 
 #skills .sub-container {
-    height: 80%;
     display: block;
 }
 
 .skills-content {
-    width: 100%;
     background-color: #ddd;
 }
 
@@ -354,8 +348,4 @@ body {
     padding-top: 50px;
     display: flex;
     justify-content: center;
-}
-
-#interests .sub-container {
-    height: 80%;
 }
